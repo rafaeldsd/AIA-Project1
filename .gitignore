@@ -1,0 +1,5 @@
+# Ignore the /seg_pred, /seg_test, and /seg_train directories
+/seg_pred/
+/seg_test/
+/seg_train/
+/archive.zip
